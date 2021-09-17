@@ -3,10 +3,10 @@
 ## Java Verion
 1. Open Project in Eclipse
 2. Open The MainTest.java
+3. Run and check the JUNIT5 results.
 
 ![image](https://user-images.githubusercontent.com/71917988/133720839-5d7677b9-5e3d-4417-8fe9-ad8b801b4f1e.png)
 
-4. Run and check the JUNIT5 results.
 
 ## C# Version
 1. Open solution file in Visual Studio
