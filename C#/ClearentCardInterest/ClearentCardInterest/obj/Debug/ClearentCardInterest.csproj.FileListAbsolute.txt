@@ -1,0 +1,7 @@
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.exe.config
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.exe
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.pdb
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.csprojAssemblyReference.cache
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.csproj.CoreCompileInputs.cache
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.exe
+C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.pdb
