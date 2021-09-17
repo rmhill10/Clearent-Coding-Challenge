@@ -2,7 +2,7 @@ package clearentCreditCardInterest;
 
 import java.math.BigDecimal;
 
-// defines a credit card
+// a credit card that can be a Visa, MC or Discover
 public class Card 
 {
 	// card types

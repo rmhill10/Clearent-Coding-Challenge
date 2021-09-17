@@ -32,3 +32,20 @@ C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent Card Interest\C#\Cleare
 C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent Card Interest\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.csproj.CopyComplete
 C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent Card Interest\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.dll
 C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent Card Interest\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.pdb
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\ClearentCardInterest.UnitTests.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\ClearentCardInterest.UnitTests.pdb
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\ClearentCardInterest.exe
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\ClearentCardInterest.pdb
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\ClearentCardInterest.exe.config
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.csprojAssemblyReference.cache
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.csproj.CopyComplete
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.dll
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest.UnitTests\obj\Debug\ClearentCardInterest.UnitTests.pdb

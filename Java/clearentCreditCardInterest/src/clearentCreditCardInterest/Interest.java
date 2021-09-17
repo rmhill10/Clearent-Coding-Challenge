@@ -5,8 +5,12 @@ import java.math.BigDecimal;
 // contains methods to find interest
 public class Interest 
 {
-		// find interest for card over given months
-		public static void calculateInterestForCard(Card card) 
+		// methods are static so an object does not have to made to find interest
+		// only interest on person is public since that is 
+		// currently all that is needed 
+	
+		// find interest for card over one month
+		private static void calculateInterestForCard(Card card) 
 		{
 			// find interest for current card
 			BigDecimal interest = card.getBalance().multiply(new BigDecimal(card.getInterest()));
@@ -18,8 +22,8 @@ public class Interest
 			card.setBalance(card.getBalance().add(interest));		
 		}
 		
-		// find interest for card over given months
-		public static void calculateInterestForWallet(Wallet wallet) 
+		// find interest for card over one month
+		private static void calculateInterestForWallet(Wallet wallet) 
 		{
 			BigDecimal walletInterest = new BigDecimal("0.0");
 			
@@ -29,6 +33,7 @@ public class Interest
 				// find interest for current card
 				calculateInterestForCard(card);
 				
+				// add interest to total wallet interest
 				walletInterest = walletInterest.add(card.getLastInterest());
 			}
 			
@@ -36,7 +41,7 @@ public class Interest
 			wallet.setLastInterest(walletInterest);
 		}
 		
-		// find interest for person and each card over given months
+		// find interest for person and each card over one month
 		public static void calculateInterestForPerson(Person person) 
 		{
 			BigDecimal totalInterest = new BigDecimal("0.0");
@@ -44,10 +49,14 @@ public class Interest
 			// go through each wallet the person has
 			for (Wallet wallet : person.getWallets()) 
 			{
+				// find interest for current wallet
 				calculateInterestForWallet(wallet);
+				
+				// add interest to total person interest
 				totalInterest = totalInterest.add(wallet.getLastInterest());
 			}	
 			
+			// set last interest of person
 			person.setLastInterest(totalInterest);
 		}	
 }

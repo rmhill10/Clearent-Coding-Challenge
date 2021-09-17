@@ -15,7 +15,12 @@ namespace ClearentCardInterest
 		private List<Wallet> wallets;
 		private decimal lastInterest;
 
-		// creates person with name to distinguish them
+		/// <summary>
+		/// creates person with one wallet
+		/// </summary>
+		/// <param name="name">
+		/// name of person
+		/// </param>
 		public Person(String name)
 		{
 			setName(name);

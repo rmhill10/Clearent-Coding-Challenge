@@ -5,3 +5,10 @@ C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debu
 C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.csproj.CoreCompileInputs.cache
 C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.exe
 C:\Users\halogoo\source\repos\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.pdb
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.exe.config
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.exe
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\bin\Debug\ClearentCardInterest.pdb
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.csprojAssemblyReference.cache
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.csproj.CoreCompileInputs.cache
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.exe
+C:\Users\halogoo\Desktop\Work Stuff\Programming\Clearent-Coding-Challenge\C#\ClearentCardInterest\ClearentCardInterest\obj\Debug\ClearentCardInterest.pdb

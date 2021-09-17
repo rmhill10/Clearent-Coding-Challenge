@@ -15,7 +15,9 @@ namespace ClearentCardInterest
 		private List<Card> cards;
 		private decimal lastInterest;
 
-		// creates wallet with zero cards
+		/// <summary>
+		/// creates wallet with zero cards
+		/// </summary>
 		public Wallet()
 		{
 			// uses list for cards to not limit number of cards
@@ -44,7 +46,7 @@ namespace ClearentCardInterest
 		}
 
 		/// <summary>
-		/// add a card to wallter
+		/// add a card to wallet
 		/// </summary>
 		/// <param name="type">
 		/// card company

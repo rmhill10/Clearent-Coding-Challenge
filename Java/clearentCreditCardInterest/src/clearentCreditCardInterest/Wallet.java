@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import clearentCreditCardInterest.Card.CardType;
 
-//defines a wallet
+// defines a wallet a person can hold
 public class Wallet 
 {
 	private List<Card> cards;
@@ -39,7 +39,7 @@ public class Wallet
 		this.lastInterest = lastInterest;
 	}
 
-	// add card to wallet
+	// add a card to wallet
 	public void addCard(CardType type, BigDecimal balance)
 	{
 		cards.add(new Card(type, balance));

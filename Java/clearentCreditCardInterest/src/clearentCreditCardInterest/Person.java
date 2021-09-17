@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
-//defines a person
+// defines a person that can hold wallets
 public class Person 
 {
 	
@@ -12,7 +12,7 @@ public class Person
 	private List<Wallet> wallets;
 	private BigDecimal lastInterest;
 	
-	// creates person with name to distinguish them
+	// creates person with one wallet
 	public Person(String name)
 	{
 		setName(name);

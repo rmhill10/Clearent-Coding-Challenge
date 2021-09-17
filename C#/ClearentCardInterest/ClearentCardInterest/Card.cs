@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 namespace ClearentCardInterest
 {
 	/// <summary>
-	/// credit card from Visa, MC, or Discover
+	/// a credit card that can be a Visa, MC or Discover
 	/// </summary>
-    public class Card
+	public class Card
     {
 		// card types
 		public enum CardType
@@ -22,7 +22,7 @@ namespace ClearentCardInterest
 		private double interest;
 		private decimal balance;
 		private decimal lastInterest;
-		// BigDecimal used for precision 
+		// decimal used for precision 
 
 
 		public Card(CardType cardType, decimal balance)
